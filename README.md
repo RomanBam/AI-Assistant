@@ -2,6 +2,8 @@
 
 A simple Python-based AI assistant powered by LangChain and OpenAI. This project provides a command-line interface where you can chat with an AI model, perform calculations, and extend functionality with custom tools. Environment variables and virtual environments are managed for security and reproducibility.
 
+<img width="583" height="366" alt="Screenshot (500)" src="https://github.com/user-attachments/assets/0143dee7-6269-44b7-a71b-5b13a0dd5145" />
+
 ---
 
 ## Quick Start
